@@ -1,1 +1,2 @@
 # testpyautogui
+使用pyautogui与opencv进行pc桌面应用自动化测试，python版本
